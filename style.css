@@ -1,0 +1,48 @@
+.cal{
+    width: 500px;
+    height: 600px;
+    background-color:rgb(23, 130, 192)  ;
+    border-width: 1px;
+    margin-left: 400px;
+    border-radius: 5px;
+    padding-top: 70px;
+}
+.btn{
+    width: 70px;
+    height: 55px;
+    background-color: rgb(226, 218, 204);
+    margin-left: 28px;
+    margin-top: 41px;  
+}
+#output{
+
+    width: 80%;;
+    height:50px;
+    margin-left: 25px;
+    margin-top: 10px;
+    pointer-events: none;
+}
+.topbtn1{
+    width: 70px;
+    height: 55px;
+    background-color: rgb(226, 218, 204);
+    margin-left: 28px;
+    margin-top: 30px;
+}
+.topbtn2{
+    width: 70px;
+    height: 55px;
+    background-color: rgb(226, 218, 204);
+    margin-left: 230px;
+    margin-top: 20px;
+}
+.btn:hover{
+    background-color: rgb(44, 136, 221);
+}
+.topbtn1:hover{
+    background-color:#eb463b;
+
+
+}
+
+
