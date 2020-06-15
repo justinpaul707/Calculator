@@ -2,10 +2,10 @@
     width: 500px;
     height: 600px;
     background-color:rgb(23, 130, 192)  ;
-    border-width: 1px;
-    margin-left: 400px;
+
     border-radius: 5px;
     padding-top: 70px;
+    padding-left: 20px;
 }
 .btn{
     width: 70px;
@@ -13,6 +13,7 @@
     background-color: rgb(226, 218, 204);
     margin-left: 28px;
     margin-top: 41px;  
+    cursor: pointer;
 }
 #output{
 
@@ -27,22 +28,34 @@
     height: 55px;
     background-color: rgb(226, 218, 204);
     margin-left: 28px;
-    margin-top: 30px;
+    margin-top: 20px;
+    cursor: pointer;
 }
 .topbtn2{
     width: 70px;
     height: 55px;
     background-color: rgb(226, 218, 204);
-    margin-left: 230px;
+    margin-left: 225px;
     margin-top: 20px;
+    cursor: pointer;
 }
 .btn:hover{
     background-color: rgb(44, 136, 221);
+    
 }
 .topbtn1:hover{
     background-color:#eb463b;
 
 
 }
+.topbtn2:hover{
+    background-color:rgb(44, 136, 221);
+
+
+}
+.labelhead{
+    margin-left: 90px;
+}
+
 
 
